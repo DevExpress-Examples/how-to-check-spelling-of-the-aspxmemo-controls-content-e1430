@@ -1,6 +1,6 @@
 # ASP.NET Web Forms Spell Checker - Check spelling of memo content
 
-This example demonstrates how to use ASPxSpellChecker to check spelling of a ASPxMemo control's content. You can add the following capabilities:
+This example demonstrates how to use ASPxSpellChecker to check spelling of an ASPxMemo control's content. You can add the following capabilities:
 * Check upper case words.
 * Display a dialog that indicates the check end.
 
