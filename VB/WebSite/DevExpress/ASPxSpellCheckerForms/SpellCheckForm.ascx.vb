@@ -1,5 +1,4 @@
-Imports Microsoft.VisualBasic
-Imports System
+﻿Imports System
 Imports System.Data
 Imports System.Configuration
 Imports System.Collections
@@ -15,6 +14,7 @@ Imports DevExpress.Web.ASPxSpellChecker.Localization
 
 Partial Public Class SpellCheckForm
 	Inherits SpellCheckerUserControl
+
 	Protected Sub Page_Load(ByVal sender As Object, ByVal e As EventArgs)
 		PrepareCheckedDiv()
 		PrepareAddToDictionaryButton()
